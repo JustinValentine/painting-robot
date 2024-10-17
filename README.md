@@ -7,18 +7,17 @@
 ## Results
 
 <p float="left">
-  <img src="resources/Painting1.png" alt="Painting 1" style="width: 49%; margin-right: 1%;" />
-  <img src="resources/Painting2.png" alt="Painting 2" style="width: 49%;" />
+  <img src="resources/Painting1.png" alt="Painting 1" style="height: 300px; margin-right: 1%;" />
+  <img src="resources/Painting2.png" alt="Painting 2" style="height: 300px;" />
 </p>
-
 
 ## Kinematic Diagrams
 
 <p float="left">
-  <img src="resources/Linkage.png" alt="Painting 1" style="width: 49%; margin-right: 1%;" />
-  <img src="resources/Parallelogram.png" alt="Painting 2" style="width: 49%;" />
+  <img src="resources/Linkage.png" alt="Linkage Diagram" style="height: 300px; margin-right: 1%;" />
+  <img src="resources/Parallelogram.png" alt="Parallelogram Diagram" style="height: 300px;" />
 </p>
 
 ## Technical Report
 
-For more details, read our [Technical Report](resources/Report.png).
+For more details, read our [Technical Report](resources/Project Report.pdf).
