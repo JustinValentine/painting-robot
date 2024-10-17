@@ -7,15 +7,16 @@
 ## Results
 
 <p float="left">
-  <img src="resources/Paintin1.png" alt="Painting 1" width="300" />
-  <img src="resources/Paintin2.png" alt="Painting 2" width="300" />
+  <img src="resources/Painting1.png" alt="Painting 1" style="width: 49%; margin-right: 1%;" />
+  <img src="resources/Painting2.png" alt="Painting 2" style="width: 49%;" />
 </p>
+
 
 ## Kinematic Diagrams
 
 <p float="left">
-  <img src="resources/Linkage.png" alt="Painting 1" width="450" />
-  <img src="resources/Parallelogram.png" alt="Painting 2" width="400" />
+  <img src="resources/Linkage.png" alt="Painting 1" style="width: 49%; margin-right: 1%;" />
+  <img src="resources/Parallelogram.png" alt="Painting 2" style="width: 49%;" />
 </p>
 
 ## Technical Report
