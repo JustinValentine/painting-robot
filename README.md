@@ -14,8 +14,8 @@
 ## Kinematic Diagrams
 
 <p float="left">
-  <img src="resources/Linkage.png" alt="Painting 1" width="300" />
-  <img src="resources/Parallelogram.png" alt="Painting 2" width="300" />
+  <img src="resources/Linkage.png" alt="Painting 1" width="550" />
+  <img src="resources/Parallelogram.png" alt="Painting 2" width="500" />
 </p>
 
 ## Technical Report
