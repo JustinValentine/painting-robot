@@ -2,18 +2,19 @@
 
 ## Our Painting Robot
 
-![Painting Robot Image](path_to_image)
+![Painting Robot Image](resources/Robot.png)
 
 [![Watch the Video](path_to_video_thumbnail)](link_to_video_in_drive)
 
 ## Results
-![Painting 1](path_to_image)
-![Painting 1](path_to_image)
+
+![Painting 1](resources/Paintin1.png)
+![Painting 2](resources/Paintin2.png)
 
 ## Kinematic Diagrams
-
-![Kinematic Diagram Image](path_to_kinematic_image)
+![Kinematic Diagram Image](resources/Linkage.png)
+![Kinematic Diagram Image](resources/Parallelogram.png)
 
 ## Technical Report
 
-For more details, read our [Technical Report](link_to_technical_report).
+For more details, read our [Technical Report](resources/Report.png).
