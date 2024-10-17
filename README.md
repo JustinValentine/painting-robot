@@ -20,4 +20,4 @@
 
 ## Technical Report
 
-For more details, read our [Technical Report](resources/Project Report.pdf).
+For more details, read our [Technical Report](painting-robot/resources/Project%20Report.pdf).
